@@ -1,6 +1,6 @@
 var Transaction = 'B2B';
 var Catalog = 'Catalogue WilsonJeux'
-const logo = 'https://cpapi.pepperi.com/wrntyimages/distributors/30015336.jpg'
+const logo = ''
 const LeftMenu = [
 {
     title: "ACCUEIL",
