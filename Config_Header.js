@@ -7,6 +7,11 @@ const LeftMenu = [
  
 ];
 const RightMenu = [
+	{
+    title: "ACCUEIL",
+    action:"navigation",
+    deepLink: 'homepage'
+  },
 
 	{
     	catalog: "Catalogue WilsonJeux",
